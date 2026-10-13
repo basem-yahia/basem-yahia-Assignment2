@@ -1,0 +1,12 @@
+*.log
+obj/
+bin/
+.env 
+.env.local
+
+*.user  
+
+.vs/
+
+
+
